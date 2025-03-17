@@ -1,4 +1,4 @@
-![Foreach](Foreach-PHP/php-e-foreach.png)
+![Foreach](php-foreach.png)
 
 # Foreach-PHP
 
