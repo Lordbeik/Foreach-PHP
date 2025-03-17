@@ -1,3 +1,5 @@
+![Foreach](Foreach-PHP/php-e-foreach.png)
+
 # Foreach-PHP
 
 Aula de PHP - Manipulação de Arrays Associativos
